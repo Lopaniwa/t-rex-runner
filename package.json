@@ -1,0 +1,19 @@
+{
+  "name": "t-rex-runner",
+  "version": "1.0.0",
+  "description": "fuckbrauni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lopaniwa/t-rex-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lopaniwa/t-rex-runner/issues"
+  },
+  "homepage": "https://github.com/Lopaniwa/t-rex-runner#readme"
+}
